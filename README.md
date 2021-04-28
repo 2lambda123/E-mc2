@@ -1,6 +1,6 @@
 # E-mc-
 
-Mobile App will be coded with React-Native to solve some samples equation noted by Albert Einstein.
+Mobile App will be coded with React-Native to solve some sample equation noted by Albert Einstein.
 
 `v 0.0.0`
 
